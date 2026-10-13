@@ -1,0 +1,27 @@
+
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a programming language used to build applications, automate tasks, and work with data."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a branch of artificial intelligence in which models learn patterns from data."
+  },
+  {
+    "question": "What is a neural network?",
+    "answer": "A neural network is a machine learning model made of interconnected computational units that learn patterns."
+  },
+  {
+    "question": "What is training data?",
+    "answer": "Training data consists of examples used to teach a machine learning model."
+  },
+  {
+    "question": "What is deep learning?",
+    "answer": "Deep learning uses neural networks with multiple layers to learn complex patterns."
+  },
+  {
+    "question": "What is an API?",
+    "answer": "An API is an interface that allows software applications to communicate with one another."
+  }
+]
